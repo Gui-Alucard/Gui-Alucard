@@ -24,6 +24,8 @@ This GitHub contains all learning activities developed by *[Guilherme Silva Oliv
 
 The program has more than **1,500 hours** of classroom and online classes and covers front-end, back-end, computer science, software engineering, agile methodologies, and soft skills.
 
+#### Trybe Repository *(https://github.com/Gui-Alucard/Trybe)*
+
 ## Introduction - Web Development :white_check_mark:
 ##### Block 1: Introduction - Unix & Shell
 - [x] 1-3: *Setup*
