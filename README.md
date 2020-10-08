@@ -24,32 +24,32 @@ This GitHub contains all learning activities developed by *[Guilherme Silva Oliv
 
 The program has more than **1,500 hours** of classroom and online classes and covers front-end, back-end, computer science, software engineering, agile methodologies, and soft skills.
 
-#### Trybe Repository *(https://github.com/Gui-Alucard/Trybe)*
+#### *[My Trybe Repository](https://github.com/Gui-Alucard/Trybe)*
 
 
 ## Introduction - Web Development :white_check_mark:
-- [x] 3-5: *[Project - HTML & CSS](https://gui-alucard.github.io/Block03-Project-HTML-CSS/project-html-css/)*
-- [x] 5-5: *[Project - Meme Generator](https://gui-alucard.github.io/Block05-Project-Meme-Generator/)*
-- [x] 5-6: *[Project - Art with Pixels](https://gui-alucard.github.io/Block05-Project-Art-with-Pixels/)*
-- [x] 5-7: *[Project - Task List](https://gui-alucard.github.io/Block05-Project-Task-List/)*
-- [ ] 5-7: *[(Bonus)Project - Guess the Color]()*
-- [ ] 5-7: *[(Bonus)Project - Mysterious Card]()*
+- [x] *[Project - HTML & CSS](https://gui-alucard.github.io/Block03-Project-HTML-CSS/project-html-css/)*
+- [x] *[Project - Meme Generator](https://gui-alucard.github.io/Block05-Project-Meme-Generator/)*
+- [x] *[Project - Art with Pixels](https://gui-alucard.github.io/Block05-Project-Art-with-Pixels/)*
+- [x] *[Project - Task List](https://gui-alucard.github.io/Block05-Project-Task-List/)*
+- [ ] *[(Bonus)Project - Guess the Color]()*
+- [ ] *[(Bonus)Project - Mysterious Card]()*
 
 ## Front-end development :hourglass_flowing_sand:
-- [x] 6-6: *[Project - Facebook home](https://gui-alucard.github.io/Block06-Project-Facebook-home/)*
-- [x] 7-4: *[Project - JavaScript Unit Tests](https://github.com/Gui-Alucard/Block07-Project-JavaScript-Unit-Tests)*
-- [x] 8-5: *[Project - Zoo functions](https://github.com/Gui-Alucard/Block08-Project-Zoo-functions)*
-- [x] 9-4: *[Project - Shopping Cart](https://gui-alucard.github.io/Block09-Project_Shop_cart/)*
-- [x] 10-3: *[Project - Asynchronous Jest and Mocking](https://github.com/Gui-Alucard/Block10-Project_Mock_Assync)*
-- [x] 11-3: *[Project - Movie Cards Library](https://gui-alucard.github.io/Block11-Project_Movie_Card/)*
-- [x] 12-3: *[Project - Movie Cards Library Stateful](https://gui-alucard.github.io/Block12-Project_MovieCard_Stateful/)*
-- [x] 13-4: *[Project - Movie Cards Library CRUD](https://gui-alucard.github.io/Block13-Project_MovieCard_CRUD/)*
-- [ ] 14-2: *[Project - Frontend Online Store]()*
-- [ ] 15-3: *[Project - React Tests]()*
-- [ ] 16-6: *[Project - Table with data filters]()*
-- [ ] 17-1: *[Project - Trivia Game]()*
-- [ ] 18-4: *[Project - Datatable StarWars with Context API and Hooks]()*
-- [ ] 19-1: *[Project - Recipe App]()*
+- [x] *[Project - Facebook home](https://gui-alucard.github.io/Block06-Project-Facebook-home/)*
+- [x] *[Project - JavaScript Unit Tests](https://github.com/Gui-Alucard/Block07-Project-JavaScript-Unit-Tests)*
+- [x] *[Project - Zoo functions](https://github.com/Gui-Alucard/Block08-Project-Zoo-functions)*
+- [x] *[Project - Shopping Cart](https://gui-alucard.github.io/Block09-Project_Shop_cart/)*
+- [x] *[Project - Asynchronous Jest and Mocking](https://github.com/Gui-Alucard/Block10-Project_Mock_Assync)*
+- [x] *[Project - Movie Cards Library](https://gui-alucard.github.io/Block11-Project_Movie_Card/)*
+- [x] *[Project - Movie Cards Library Stateful](https://gui-alucard.github.io/Block12-Project_MovieCard_Stateful/)*
+- [x] *[Project - Movie Cards Library CRUD](https://gui-alucard.github.io/Block13-Project_MovieCard_CRUD/)*
+- [ ] *[Project - Frontend Online Store]()*
+- [ ] *[Project - React Tests]()*
+- [ ] *[Project - Table with data filters]()*
+- [ ] *[Project - Trivia Game]()*
+- [ ] *[Project - Datatable StarWars with Context API and Hooks]()*
+- [ ] *[Project - Recipe App]()*
 
 <!--
 ## Back-end development :hourglass_flowing_sand:
