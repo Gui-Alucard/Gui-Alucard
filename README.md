@@ -28,10 +28,7 @@ The program has more than **1,500 hours** of classroom and online classes and co
 
 
 ## Introduction - Web Development :white_check_mark:
-##### Introduction - HTML & CSS
 - [x] 3-5: *[Project - HTML & CSS](https://gui-alucard.github.io/Block03-Project-HTML-CSS/project-html-css/)*
-
-##### Introduction - JavaScript - Projects
 - [x] 5-5: *[Project - Meme Generator](https://gui-alucard.github.io/Block05-Project-Meme-Generator/)*
 - [x] 5-6: *[Project - Art with Pixels](https://gui-alucard.github.io/Block05-Project-Art-with-Pixels/)*
 - [x] 5-7: *[Project - Task List](https://gui-alucard.github.io/Block05-Project-Task-List/)*
@@ -39,29 +36,19 @@ The program has more than **1,500 hours** of classroom and online classes and co
 - [ ] 5-7: *[(Bonus)Project - Mysterious Card]()*
 
 ## Front-end development :hourglass_flowing_sand:
-##### Introduction - Front-end
 - [x] 6-6: *[Project - Facebook home](https://gui-alucard.github.io/Block06-Project-Facebook-home/)*
-##### JavaScript ES6 & Unit Tests
 - [x] 7-4: *[Project - JavaScript Unit Tests](https://github.com/Gui-Alucard/Block07-Project-JavaScript-Unit-Tests)*
-##### JavaScript ES6
 - [x] 8-5: *[Project - Zoo functions](https://github.com/Gui-Alucard/Block08-Project-Zoo-functions)*
-##### Asynchronicity & Callbacks
 - [x] 9-4: *[Project - Shopping Cart](https://gui-alucard.github.io/Block09-Project_Shop_cart/)*
-##### Jest
 - [x] 10-3: *[Project - Asynchronous Jest and Mocking](https://github.com/Gui-Alucard/Block10-Project_Mock_Assync)*
-##### Introduction - React
 - [x] 11-3: *[Project - Movie Cards Library](https://gui-alucard.github.io/Block11-Project_Movie_Card/)*
 - [x] 12-3: *[Project - Movie Cards Library Stateful](https://gui-alucard.github.io/Block12-Project_MovieCard_Stateful/)*
 - [x] 13-4: *[Project - Movie Cards Library CRUD](https://gui-alucard.github.io/Block13-Project_MovieCard_CRUD/)*
-##### Agile Methodologies
 - [ ] 14-2: *[Project - Frontend Online Store]()*
-##### React
 - [ ] 15-3: *[Project - React Tests]()*
 - [ ] 16-6: *[Project - Table with data filters]()*
 - [ ] 17-1: *[Project - Trivia Game]()*
-##### React & Redux
 - [ ] 18-4: *[Project - Datatable StarWars with Context API and Hooks]()*
-##### Final Front-end Project
 - [ ] 19-1: *[Project - Recipe App]()*
 
 <!--
