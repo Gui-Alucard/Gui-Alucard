@@ -44,7 +44,7 @@ The program has more than **1,500 hours** of classroom and online classes and co
 - [x] *[Project - Movie Cards Library](https://gui-alucard.github.io/Block11-Project_Movie_Card/)*
 - [x] *[Project - Movie Cards Library Stateful](https://gui-alucard.github.io/Block12-Project_MovieCard_Stateful/)*
 - [x] *[Project - Movie Cards Library CRUD](https://gui-alucard.github.io/Block13-Project_MovieCard_CRUD/)*
-- [ ] *[Project - Frontend Online Store]()*
+- [x] *[Project - Frontend Online Store](https://gui-alucard.github.io/Block14-Project-Agile/)*
 - [ ] *[Project - React Tests]()*
 - [ ] *[Project - Table with data filters]()*
 - [ ] *[Project - Trivia Game]()*
