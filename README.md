@@ -25,6 +25,7 @@ This GitHub contains all learning activities developed by *[Guilherme Silva Oliv
 The program has more than **1,500 hours** of classroom and online classes and covers front-end, back-end, computer science, software engineering, agile methodologies, and soft skills.
 
 #### *[My Trybe Repository](https://github.com/Gui-Alucard/Trybe)*
+#### *[My Personal Portfolio](https://gui-alucard.github.io/portifolio/)*
 
 
 ## Introduction - Web Development :white_check_mark:
@@ -45,7 +46,7 @@ The program has more than **1,500 hours** of classroom and online classes and co
 - [x] *[Project - Movie Cards Library Stateful](https://gui-alucard.github.io/Block12-Project_MovieCard_Stateful/)*
 - [x] *[Project - Movie Cards Library CRUD](https://gui-alucard.github.io/Block13-Project_MovieCard_CRUD/)*
 - [x] *[Project - Frontend Online Store](https://gui-alucard.github.io/Block14-Project-Agile/)*
-- [ ] *[Project - React Tests]()*
+- [x] *[Project - React Tests](https://github.com/Gui-Alucard/Block15-Project-RTL)*
 - [ ] *[Project - Table with data filters]()*
 - [ ] *[Project - Trivia Game]()*
 - [ ] *[Project - Datatable StarWars with Context API and Hooks]()*
