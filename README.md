@@ -50,7 +50,7 @@ The program has more than **1,500 hours** of classroom and online classes and co
 - [x] *[Project - Wallet]()*
 - [x] *[Project - Trivia Game]()*
 - [x] *[Project - Datatable StarWars with Context API and Hooks]()*
-- [x] *[Project - Recipe App]()*
+- [x] *[Project - Recipe App](https://gui-alucard.github.io/app-receitas/)*
 
 <!--
 ## Back-end development :hourglass_flowing_sand:
