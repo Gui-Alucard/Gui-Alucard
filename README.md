@@ -28,14 +28,14 @@ Here are some ideas to get you started:
 ##### *[My Trybe Repository](https://github.com/Gui-Alucard/Trybe)*
 ##### *[My Personal Portfolio](https://gui-alucard.github.io/portifolio/) - Work in progress*
 
-***PS:***  At TRYBE directory you can follow my weekly progress on the full-stack formation.</br> Click on the link above to see the modules! Currently I'm working on the Back-end module.
+***PS:***  At TRYBE repository you can follow my weekly progress on the full-stack formation.</br> Click on the link above to see the modules! Currently I'm working on the Back-end module.
 
 ##### A LITTLE ABOUT ME
 
-- :computer: Currently studying software development at TRYBE
-- :heart: Passionate for technologies and optimizations
-- :recycle: Always learning, running and growing up
-- :mortar_board: Physicist, Designer and Dancer
+- :computer:  Currently studying software development at TRYBE
+- :heart:  Passionate for technologies and optimizations
+- :recycle:  Always learning, practicing and growing up
+- :mortar_board:  Physicist, Designer and Dancer
 
 
 ##### MAIN SKILLS
