@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;&nbsp;
 <img src="./img/nodejs-1.svg" width="60" height="40" style="margin: 10px" />
 &nbsp;&nbsp;&nbsp;
-<img src="./img/mysql.png" width="50" height="40" style="margin: 10px" />
+<img src="./img/mySQL.png" width="60" height="40" style="margin: 10px" />
 &nbsp;&nbsp;&nbsp;
 <img src="./img/adobe-illustrator-cc.svg" width="40" height="40" style="margin: 10px"/>
 &nbsp;&nbsp;&nbsp;
