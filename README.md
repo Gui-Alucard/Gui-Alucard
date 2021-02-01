@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;&nbsp;
 <img src="./img/Git_icon.svg" width="40" height="40" style="margin: 10px" />
 &nbsp;&nbsp;&nbsp;
-<img src="./img/css3.svg" width="40" height="40" style="margin: 10px" />
+<img src="./img/css3.svg" width="50" height="40" style="margin: 10px" />
 &nbsp;&nbsp;&nbsp;
 <img src="./img/html-5.svg" width="40" height="40" style="margin: 10px" />
 &nbsp;&nbsp;&nbsp;
@@ -69,7 +69,9 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;&nbsp;
 <img src="./img/jest-0.svg" width="40" height="40" style="margin: 10px" />
 &nbsp;&nbsp;&nbsp;
-<img src="./img/nodejs-1.svg" width="40" height="40" style="margin: 10px" />
+<img src="./img/nodejs-1.svg" width="60" height="40" style="margin: 10px" />
+&nbsp;&nbsp;&nbsp;
+<img src="./img/mysql.png" width="40" height="40" style="margin: 10px" />
 &nbsp;&nbsp;&nbsp;
 <img src="./img/adobe-illustrator-cc.svg" width="40" height="40" style="margin: 10px"/>
 &nbsp;&nbsp;&nbsp;
