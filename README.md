@@ -37,9 +37,9 @@ Here are some ideas to get you started:
 - :recycle:  Always learning, practicing and growing up
 - :mortar_board:  Physicist, Designer and Dancer
 
+___
 
 ##### MAIN SKILLS
-
 <div>
 <img src="./img/Octocat.png" width="40" height="40" style="margin: 10px" />
 &nbsp;&nbsp;&nbsp;
@@ -53,29 +53,52 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;&nbsp;
 <img src="./img/react-2.svg" width="40" height="40" style="margin: 10px" />
 &nbsp;&nbsp;&nbsp;
+<img src="./img/typescript.png" width="40" height="40" style="margin: 10px" />
+&nbsp;&nbsp;&nbsp; <br />
+<img src="./img/umijs.png" width="40" height="40" style="margin: 10px" />
+&nbsp;&nbsp;&nbsp;
+<img src="./img/antdesign.png" width="40" height="40" style="margin: 10px" />
+&nbsp;&nbsp;&nbsp;
+<img src="./img/nodejs-1.svg" width="60" height="40" style="margin: 10px" />
+&nbsp;&nbsp;&nbsp;
+<img src="./img/python.png" width="40" height="40" style="margin: 10px" />
+&nbsp;&nbsp;&nbsp;
+<img src="./img/reactpdf.png" width="40" height="40" style="margin: 10px" />
+&nbsp;&nbsp;&nbsp;
 <img src="./img/rtl.png" width="40" height="40" style="margin: 10px" />
+&nbsp;&nbsp;&nbsp;
+</div>
+
+
+##### OTHERS
+<div>
+<img src="./img/django.png" width="40" height="40" style="margin: 10px" />
+&nbsp;&nbsp;&nbsp;
+<img src="./img/Pandas.svg" width="40" height="40" style="margin: 10px" />
+&nbsp;&nbsp;&nbsp;
+<img src="./img/mysql.png" width="60" height="40" style="margin: 10px" />
+&nbsp;&nbsp;&nbsp;
+<img src="./img/redux.svg" width="40" height="40" style="margin: 10px" />
+&nbsp;&nbsp;&nbsp;
+<img src="./img/materialui.png" width="40" height="40" style="margin: 10px" />
+&nbsp;&nbsp;&nbsp;
+<img src="./img/bizchart.png" width="35" height="35" style="margin: 10px" />
+&nbsp;&nbsp;&nbsp;
+<img src="./img/vue-js-1.svg" width="40" height="40" style="margin: 10px" />
+&nbsp;&nbsp;&nbsp;<br />
+<img src="./img/jest-0.svg" width="40" height="40" style="margin: 10px" />
 &nbsp;&nbsp;&nbsp;
 <img src="./img/graphql.svg" width="40" height="40" style="margin: 10px" />
 &nbsp;&nbsp;&nbsp;
 <img src="./img/apollo-graphql-1.svg" width="90" height="40" style="margin: 10px" />
 &nbsp;&nbsp;&nbsp;
-</div>
-
-##### OTHERS
-<div>
-<img src="./img/vue-js-1.svg" width="40" height="40" style="margin: 10px" />
-&nbsp;&nbsp;&nbsp;
-<img src="./img/redux.svg" width="40" height="40" style="margin: 10px" />
-&nbsp;&nbsp;&nbsp;
-<img src="./img/jest-0.svg" width="40" height="40" style="margin: 10px" />
-&nbsp;&nbsp;&nbsp;
-<img src="./img/nodejs-1.svg" width="60" height="40" style="margin: 10px" />
-&nbsp;&nbsp;&nbsp;
-<img src="./img/mysql.png" width="60" height="40" style="margin: 10px" />
-&nbsp;&nbsp;&nbsp;
 <img src="./img/adobe-illustrator-cc.svg" width="40" height="40" style="margin: 10px"/>
 &nbsp;&nbsp;&nbsp;
-</div>
+</div>  
+</br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gui-Alucard&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gui-Alucard&hide=stars,issues&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 ##### FOLLOW ME ON
 
