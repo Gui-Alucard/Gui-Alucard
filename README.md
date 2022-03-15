@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 -->
 
 # 🌱 Guilherme Silva Oliveira 🌱 
-#### *Student at TRYBE to become a full-stack developer*
-:dart: ***Open to Work***
+#### *A full-stack developer*
+:dart: ***Close to Work***
 
 ##### WHAT YOU WILL FIND
 
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ##### *[My Trybe Repository](https://github.com/Gui-Alucard/Trybe)*
 ##### *[My Personal Portfolio](https://gui-alucard.github.io/portifolio/) - Work in progress*
 
-***PS:***  At TRYBE repository you can follow my weekly progress on the full-stack formation.</br> Click on the link above to see the modules! Currently I'm working on the Back-end module.
+***PS:***  At TRYBE repository you can follow my weekly progress on the full-stack formation.</br> Click on the link above to see the modules! I finished all modules.
 
 ##### A LITTLE ABOUT ME
 
