@@ -102,6 +102,6 @@ ___
 
 ##### FOLLOW ME ON
 
-<a href="https://www.linkedin.com/in/guilhermesilva-oliveira/" target="_blank"><img src="./img/linkedin.svg" width="140" height="35" style="margin: 10px"/></a>
+<a href="https://www.linkedin.com/in/guilhermesilva-oliveira/" target="_blank" rel="noopener noreferrer"><img src="./img/linkedin.svg" width="140" height="35" style="margin: 10px"/></a>
 
 </br></br>
