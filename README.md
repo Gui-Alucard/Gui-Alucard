@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ##### A LITTLE ABOUT ME
 
-- :computer:  Currently working for Accenture Technology
+- :computer:  Currently working for *[Accenture Technology](https://www.accenture.com/br-pt)*
 - :heart:  Passionate for technologies and optimizations
 - :recycle:  Always learning, practicing and growing up
 - :mortar_board:  Physicist, Designer and Dancer
