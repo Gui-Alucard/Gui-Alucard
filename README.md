@@ -102,6 +102,6 @@ ___
 
 ##### FOLLOW ME ON
 
-<img href="www.linkedin.com/in/pavolpin/" target="_blank" src="./img/linkedin.svg" width="140" height="35" style="margin: 10px"/>
+<a href="https://www.linkedin.com/in/guilhermesilva-oliveira/" target="_blank"><img src="./img/linkedin.svg" width="140" height="35" style="margin: 10px"/></a>
 
 </br></br>
