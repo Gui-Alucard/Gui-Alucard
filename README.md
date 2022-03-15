@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 - :computer:  Currently working for *[Accenture Technology](https://www.accenture.com/br-pt)*
 - :heart:  Passionate for technologies and optimizations
 - :recycle:  Always learning, practicing and growing up
-- :mortar_board:  Physicist, Designer and Dancer
+- :mortar_board:  Physicist, Helicopter Pilot, Designer and Dancer
 
 ___
 
