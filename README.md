@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 
 # 🌱 Guilherme Silva Oliveira 🌱 
 #### *A full-stack developer*
-:dart: ***Close to Work***
 
 ##### WHAT YOU WILL FIND
 
