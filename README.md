@@ -35,28 +35,28 @@ Here are some ideas to get you started:
 
 ___
 ##### MAIN SKILLS
-[<img src="./img/typescript.png" alt="Logo do TypeScript" width="40" height="40" style="margin: 10px" />]("https://www.typescriptlang.org")
-[<img src="./img/nodejs-1.svg" alt="Logo do NodeJs" width="60" height="40" style="margin: 10px" />]("https://nodejs.org/en")
-[<img src="./img/react-2.svg" alt="Logo do React Native" width="60" height="40" style="margin: 10px" />]("https://reactnative.dev")
-[<img src="./img/python.png" alt="Logo do Python" width="40" height="40" style="margin: 10px" />]("https://www.python.org")
-[<img src="./img/Git_icon.svg" alt="Logo do GIT" width="40" height="40" style="margin: 10px" /> ]("https://git-scm.com")
+[<img src="./img/typescript.png" alt="Logo do TypeScript" width="40" height="40" style="margin: 10px" />]("https://www.typescriptlang.org")&nbsp;&nbsp;&nbsp;
+[<img src="./img/nodejs-1.svg" alt="Logo do NodeJs" width="60" height="40" style="margin: 10px" />]("https://nodejs.org/en")&nbsp;&nbsp;&nbsp;
+[<img src="./img/react-2.svg" alt="Logo do React Native" width="60" height="40" style="margin: 10px" />]("https://reactnative.dev")&nbsp;&nbsp;&nbsp;
+[<img src="./img/python.png" alt="Logo do Python" width="40" height="40" style="margin: 10px" />]("https://www.python.org")&nbsp;&nbsp;&nbsp;
+[<img src="./img/Git_icon.svg" alt="Logo do GIT" width="40" height="40" style="margin: 10px" /> ]("https://git-scm.com")&nbsp;&nbsp;&nbsp;
 
 
 ##### OTHERS
-[<img src="./img/aws-dynamodb.svg"  alt="Logo AWS Dynamo DB" width="40" height="40" style="margin: 10px" />]("https://aws.amazon.com/pt/dynamodb/")
-[<img src="./img/serverless.svg" alt="Logo do Serverless" width="40" height="40" style="margin: 10px" />]("https://www.serverless.com")
-[<img src="./img/nextjs.svg" alt="Logo do NextJs" width="40" height="40" style="margin: 10px" />]("https://nextjs.org")
-[<img src="./img/prisma.svg"  alt="Logo do Prisma ORM" width="40" height="40" style="margin: 10px" />]("https://www.prisma.io")
-[<img src="./img/tailwind.svg"  alt="Logo AWS Dynamo DB" width="40" height="40" style="margin: 10px" />]("https://tailwindcss.com")
-[<img src="./img/shaka_logo_85_40.png" alt="Logo do Google Shaka Player" width="68" height="32" style="margin: 10px" />]("https://shaka-player-demo.appspot.com/docs/api/index.html")
-[<img src="./img/expo.svg" alt="Logo do Expo Go" width="40" height="40" style="margin: 10px" />]("https://expo.dev")</br>
-[<img src="./img/jest-0.svg" alt="Logo do Jest" width="40" height="40" style="margin: 10px" />]("https://jestjs.io")
-[<img src="./img/mysql.png" alt="Logo do MySQL" width="60" height="40" style="margin: 10px" />]("https://www.mysql.com")
-[<img src="./img/django.svg" alt="Logo do Django" width="40" height="40" style="margin: 10px" />]("https://www.djangoproject.com")
-[<img src="./img/graphql.svg" alt="Logo do GraphQL" width="40" height="40" style="margin: 10px" />]("https://graphql.org")
-[<img src="./img/adobe-illustrator-cc.svg" alt="Logo do GraphQL" width="40" height="40" style="margin: 10px"/>]("https://www.adobe.com/br/products/illustrator")
-[<img src="./img/umijs.png" alt="Logo do UmiJS" width="40" height="40" style="margin: 10px" />]("https://umijs.org")
-[<img src="./img/antdesign.png" alt="Logo do Ant-Design" width="40" height="40" style="margin: 10px" />]("https://ant.design")
+[<img src="./img/aws-dynamodb.svg"  alt="Logo AWS Dynamo DB" width="40" height="40" style="margin: 10px" />]("https://aws.amazon.com/pt/dynamodb/")&nbsp;&nbsp;&nbsp;
+[<img src="./img/serverless.svg" alt="Logo do Serverless" width="40" height="40" style="margin: 10px" />]("https://www.serverless.com")&nbsp;&nbsp;&nbsp;
+[<img src="./img/nextjs.svg" alt="Logo do NextJs" width="40" height="40" style="margin: 10px" />]("https://nextjs.org")&nbsp;&nbsp;&nbsp;
+[<img src="./img/prisma.svg"  alt="Logo do Prisma ORM" width="40" height="40" style="margin: 10px" />]("https://www.prisma.io")&nbsp;&nbsp;&nbsp;
+[<img src="./img/tailwind.svg"  alt="Logo AWS Dynamo DB" width="40" height="40" style="margin: 10px" />]("https://tailwindcss.com")&nbsp;&nbsp;&nbsp;
+[<img src="./img/shaka_logo_85_40.png" alt="Logo do Google Shaka Player" width="68" height="32" style="margin: 10px" />]("https://shaka-player-demo.appspot.com/docs/api/index.html")&nbsp;&nbsp;&nbsp;
+[<img src="./img/expo.svg" alt="Logo do Expo Go" width="40" height="40" style="margin: 10px" />]("https://expo.dev")&nbsp;&nbsp;&nbsp;</br>
+[<img src="./img/jest-0.svg" alt="Logo do Jest" width="40" height="40" style="margin: 10px" />]("https://jestjs.io")&nbsp;&nbsp;&nbsp;
+[<img src="./img/mysql.png" alt="Logo do MySQL" width="60" height="40" style="margin: 10px" />]("https://www.mysql.com")&nbsp;&nbsp;&nbsp;
+[<img src="./img/django.svg" alt="Logo do Django" width="40" height="40" style="margin: 10px" />]("https://www.djangoproject.com")&nbsp;&nbsp;&nbsp;
+[<img src="./img/graphql.svg" alt="Logo do GraphQL" width="40" height="40" style="margin: 10px" />]("https://graphql.org")&nbsp;&nbsp;&nbsp;
+[<img src="./img/adobe-illustrator-cc.svg" alt="Logo do GraphQL" width="40" height="40" style="margin: 10px"/>]("https://www.adobe.com/br/products/illustrator")&nbsp;&nbsp;&nbsp;
+[<img src="./img/umijs.png" alt="Logo do UmiJS" width="40" height="40" style="margin: 10px" />]("https://umijs.org")&nbsp;&nbsp;&nbsp;
+[<img src="./img/antdesign.png" alt="Logo do Ant-Design" width="40" height="40" style="margin: 10px" />]("https://ant.design")&nbsp;&nbsp;&nbsp;
 
 ___
 </br>
