@@ -22,12 +22,10 @@ Here are some ideas to get you started:
 - Personal projects
 - Curiosities about me
 - Developer skills
-- Learning activities from <a href="https://www.betrybe.com/" target="_blank">TRYBE</a>'s' course
+- Learning activities
 
-##### *[My Trybe Repository](https://github.com/Gui-Alucard/Trybe)*
-##### *[My Personal Portfolio](https://gui-alucard.github.io/portifolio/) - Work in progress*
-
-***PS:***  At TRYBE repository you can follow my weekly progress on the full-stack formation.</br> Click on the link above to see the modules! I finished all modules.
+##### *[Trybe Repository](https://github.com/Gui-Alucard/Trybe)*
+##### *[Personal Portfolio](https://gui-alucard.github.io/portifolio/) - Work in progress*
 
 ##### A LITTLE ABOUT ME
 
