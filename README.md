@@ -38,14 +38,19 @@ ___
 ##### MAIN SKILLS
 [<a href="https://www.typescriptlang.org" target="_blank" rel="noopener noreferrer">
 <img src="./img/typescript.png" alt="Logo do TypeScript" width="40" height="40" style="margin: 10px" /></a>]("https://www.typescriptlang.org")
+&nbsp;&nbsp;&nbsp;
 [<a href="https://nodejs.org/en" target="_blank" rel="noopener noreferrer">
 <img src="./img/nodejs-1.svg" alt="Logo do NodeJs" width="60" height="40" style="margin: 10px" /></a>]("https://nodejs.org/en")
+&nbsp;&nbsp;&nbsp;
 [<a href="https://reactnative.dev" target="_blank" rel="noopener noreferrer">
 <img src="./img/react-2.svg" alt="Logo do React Native" width="60" height="40" style="margin: 10px" /></a>]("https://reactnative.dev")
+&nbsp;&nbsp;&nbsp;
 [<a href="https://www.python.org" target="_blank" rel="noopener noreferrer">
 <img src="./img/python.png" alt="Logo do Python" width="40" height="40" style="margin: 10px" /></a>]("https://www.python.org")
+&nbsp;&nbsp;&nbsp;
 [<a href="https://git-scm.com" target="_blank" rel="noopener noreferrer">
 <img src="./img/Git_icon.svg" alt="Logo do GIT" width="40" height="40" style="margin: 10px" /></a>]("https://git-scm.com")
+&nbsp;&nbsp;&nbsp;
 
 
 ##### OTHERS
