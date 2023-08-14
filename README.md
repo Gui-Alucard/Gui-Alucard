@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 - Developer skills
 - Learning activities
 
+ *[Accenture Github](https://github.com/g-silva-oliveira) - Here you can follow my commits range*</br>
  *[Personal Portfolio](https://gui-alucard.github.io/portifolio/) - Work in progress*</br>
  *[Trybe Repository](https://github.com/Gui-Alucard/Trybe)*
 
