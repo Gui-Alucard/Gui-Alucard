@@ -99,8 +99,8 @@ ___
 </br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gui-Alucard&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-&nbsp;&nbsp;&nbsp;
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gui-Alucard&hide=stars,issues&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+</br>
+![](https://myreadme.vercel.app/api/embed/Gui-Alucard?panels=commitgraph)
 
 ##### FOLLOW ME ON
 
