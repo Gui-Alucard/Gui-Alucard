@@ -1,23 +1,10 @@
-<!--
-### Hi there 👋
-**Gui-Alucard/Gui-Alucard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Guilherme S. Oliveira   🚀
+
 #### *A full-stack developer*
 ##### WHAT YOU WILL FIND
 
+
+<img src="https://komarev.com/ghpvc/?username=Gui-Alucard&color=brightgreen" alt="watching_count" />
 - Personal projects
 - Curiosities about me
 - Developer skills
@@ -74,15 +61,14 @@ ___
   [<a href="https://tailwindcss.com" target="_blank" rel="noopener noreferrer">
     <img src="./img/tailwind.svg"  alt="Logo AWS Dynamo DB" width="40" height="40" style="margin: 10px" />
   </a>]("https://tailwindcss.com")
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;<br />
   [<a href="https://shaka-player-demo.appspot.com/docs/api/index.html" target="_blank" rel="noopener noreferrer">
-    <img src="./img/shaka_logo_85_40.png" alt="Logo do Google Shaka Player" width="68" height="32" style="margin: 10px" />
+    <img src="./img/shaka_logo_85_40.png" alt="Logo do Google Shaka Player" width="52" height="28" style="margin: 10px" />
   </a>]("https://shaka-player-demo.appspot.com/docs/api/index.html")
-&nbsp;&nbsp;&nbsp;
   [<a href="https://expo.dev" target="_blank" rel="noopener noreferrer">
     <img src="./img/expo.svg" alt="Logo do Expo Go" width="40" height="40" style="margin: 10px" />
   </a>]("https://expo.dev")
-&nbsp;&nbsp;&nbsp;<br />
+&nbsp;&nbsp;&nbsp;
   [<a href="https://jestjs.io" target="_blank" rel="noopener noreferrer">
     <img src="./img/jest-0.svg" alt="Logo do Jest" width="40" height="40" style="margin: 10px" />
   </a>]("https://jestjs.io")
@@ -94,7 +80,7 @@ ___
   [<a href="https://www.djangoproject.com" target="_blank" rel="noopener noreferrer">
     <img src="./img/django.svg" alt="Logo do Django" width="40" height="40" style="margin: 10px" />
   </a>]("https://www.djangoproject.com")
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;<br />
   [<a href="https://graphql.org" target="_blank" rel="noopener noreferrer">
     <img src="./img/graphql.svg" alt="Logo do GraphQL" width="40" height="40" style="margin: 10px" />
   </a>]("https://graphql.org")
