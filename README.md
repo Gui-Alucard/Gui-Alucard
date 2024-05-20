@@ -5,7 +5,7 @@
 ##### WHAT YOU WILL FIND
 
 *[Accenture Github](https://github.com/g-silva-oliveira) - Here you can follow my professional contributions*</br>
-*[Personal Portfolio](https://portfoliogodev.vercel.app) - Work in progress*</br>
+*[Personal Portfolio](https://portfoliogodev.vercel.app) - Take a look 👀*</br>
 *[Trybe Repository](https://github.com/Gui-Alucard/Trybe)*
 
 - Personal projects
