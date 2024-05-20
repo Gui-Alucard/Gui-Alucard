@@ -106,6 +106,6 @@ ___
 
 ##### FOLLOW ME ON
 
-[<a class="tooltip" href="https://www.linkedin.com/in/guilhermesilva-oliveira/" target="_blank" rel="noopener noreferrer"><img src="./img/linkedin.svg" alt="logo do linkedin" width="140" height="35" style="margin: 10px"/></a>]("https://www.linkedin.com/in/guilhermesilva-oliveira/")
+[<a class="tooltip" href="https://www.linkedin.com/in/g-silva-oliveira/" target="_blank" rel="noopener noreferrer"><img src="./img/linkedin.svg" alt="logo do linkedin" width="140" height="35" style="margin: 10px"/></a>]("https://www.linkedin.com/in/g-silva-oliveira/")
 
 </br></br>
